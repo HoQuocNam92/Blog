@@ -1,0 +1,12 @@
+@import './__variable.module.scss';
+@mixin respond-to($breakpoint) {
+    $size: map-get($breakpoints, $breakpoint);
+
+    @if $size {
+        @media screen and (#{$size}) {
+            @content;
+        }
+    } @else {
+        @warn "Breakpoint `#{$breakpoint}` is not defined in `$breakpoints`.";
+    }
+}

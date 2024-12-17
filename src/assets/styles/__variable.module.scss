@@ -1,0 +1,7 @@
+$breakpoints: (
+    'mobile': 'max-width: 46.1875em',
+    // ~739px
+    'tablet': 'min-width: 46.25em and max-width: 63.9375em',
+    // 740px - 1023px
+    'pc': 'min-width: 64em' // >=1024px,
+);
