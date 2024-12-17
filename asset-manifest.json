@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HoQuocNam92/Blog.git/static/css/main.76bedcfd.css",
+    "main.js": "/HoQuocNam92/Blog.git/static/js/main.29775400.js",
+    "static/js/488.11f14f95.chunk.js": "/HoQuocNam92/Blog.git/static/js/488.11f14f95.chunk.js",
+    "static/media/Hero.png": "/HoQuocNam92/Blog.git/static/media/Hero.d8be0e86ffaa441b61f2.png",
+    "index.html": "/HoQuocNam92/Blog.git/index.html",
+    "main.76bedcfd.css.map": "/HoQuocNam92/Blog.git/static/css/main.76bedcfd.css.map",
+    "main.29775400.js.map": "/HoQuocNam92/Blog.git/static/js/main.29775400.js.map",
+    "488.11f14f95.chunk.js.map": "/HoQuocNam92/Blog.git/static/js/488.11f14f95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76bedcfd.css",
+    "static/js/main.29775400.js"
+  ]
+}
