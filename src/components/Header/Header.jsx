@@ -1,16 +1,7 @@
 import Styles from './Header.module.scss';
 const Header = () => {
-    const {
-        wrapper,
-        bars,
-        checkbox,
-        wrapper_box,
-        overplay,
-        wrapper_box_left,
-        wrapper_box_right,
-        wrapper_box_middle,
-        wrapper_bars,
-    } = Styles;
+    const { wrapper, bars, checkbox, wrapper_box, overplay, wrapper_box_left, wrapper_box_right, wrapper_box_middle } =
+        Styles;
     return (
         <div className={wrapper}>
             <div className={wrapper_box}>

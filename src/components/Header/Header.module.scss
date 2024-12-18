@@ -71,10 +71,14 @@
                 display: block;
             }
             .bars i {
-                font-size: 30px;
+                font-size: 20px;
                 position: absolute;
-                top: 20px;
-                right: 40px;
+                top: 15px;
+                right: 20px;
+                background-color: #ff6900;
+                color: #fff;
+                padding: 10px;
+                border-radius: 2px;
             }
             .wrapper_box_middle {
                 position: fixed;
